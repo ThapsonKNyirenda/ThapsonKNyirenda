@@ -5,7 +5,6 @@
 - 🌱 Rich out: thapsonknyirenda@gmail.com || +265880218905
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThapsonKNyirenda)](https://github.com/ThapsonKNyirenda/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThapsonKNyirenda&layout=compact)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ThapsonKNyirenda&layout=compact/github-readme-stats)
 
 <!---
