@@ -1,22 +1,46 @@
-- 👋 Hi, I’m @ThapsonKNyirenda
-- 👀 I’m interested in Web and Mobile Application Development
-- 🌱 I’m currently learning Laravel, React, Next Js and Nest JS
-- 💞️ I’m looking to collaborate on Flutter, Javascript or Laravel Project
-- 🌱 Rich out: thapsonknyirenda@gmail.com || +265880218905
+# 👋 Hi, I’m Thapson K. Nyirenda
 
+- 👀 I’m interested in **Web and Mobile Application Development**
+- 🌱 I’m currently learning **Laravel**, **React**, **Next.js**, and **NestJS**
+- 🤝 I’m open to collaboration on **Flutter**, **JavaScript**, or **Laravel** projects
+- 📫 Reach me at: **thapsonknyirenda@gmail.com** | 📞 **+265 880 218 905**
 
-![GitHub Stats](https://github-readme-stats-theta-ashy.vercel.app/api?username=ThapsonKNyirenda&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+---
 
-![Top Langs](https://github-readme-stats-theta-ashy.vercel.app/api/top-langs/?username=ThapsonKNyirenda&layout=compact&count_private=true&langs_count=8&theme=radical)
+## 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ThapsonKNyirenda&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-theta-ashy.vercel.app/api?username=ThapsonKNyirenda&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-theta-ashy.vercel.app/api/top-langs/?username=ThapsonKNyirenda&layout=compact&count_private=true&langs_count=8&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ThapsonKNyirenda&theme=radical&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThapsonKNyirenda&theme=radical)
 
-![ThapsonKNyirenda's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThapsonKNyirenda&theme=github-compact)
+---
+
+## 📈 Contribution Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThapsonKNyirenda&theme=github-compact)
+
+---
 
 <!---
-ThapsonKNyirenda/ThapsonKNyirenda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-Access Token: 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  : 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 : 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
+NOTE: Do NOT place any personal access tokens here. They must remain private.
+ThapsonKNyirenda/ThapsonKNyirenda is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 --->
