@@ -5,8 +5,7 @@
 - 🌱 Rich out: thapsonknyirenda@gmail.com || +265880218905
 
 
-
-[![Thapson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThapsonKNyirenda&theme=radical)](https://wakatime.com/@ThapsonKNyirenda)
+![ThapsonKNyirenda's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThapsonKNyirenda&theme=github-compact)
 
 <!---
 ThapsonKNyirenda/ThapsonKNyirenda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
