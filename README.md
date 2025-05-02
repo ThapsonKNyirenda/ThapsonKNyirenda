@@ -6,8 +6,7 @@
 
 
 
-[![Repo Name](https://github-readme-stats-theta-ashy.vercel.app/api/pin/?username=ThapsonKNyirenda&repo=your-repo-name&theme=radical)](https://github.com/ThapsonKNyirenda/your-repo-name)
-
+[![Thapson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThapsonKNyirenda&theme=radical)](https://wakatime.com/@ThapsonKNyirenda)
 
 <!---
 ThapsonKNyirenda/ThapsonKNyirenda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
