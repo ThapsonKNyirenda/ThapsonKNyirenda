@@ -4,8 +4,10 @@
 - 💞️ I’m looking to collaborate on Flutter, Javascript or Laravel Project
 - 🌱 Rich out: thapsonknyirenda@gmail.com || +265880218905
 
-![Top Langs](https://github-readme-stats-theta-ashy.vercel.app/api/top-langs/?username=ThapsonKNyirenda&count_private=true&layout=compact&langs_count=6&theme=radical)
 ![GitHub Stats](https://github-readme-stats-theta-ashy.vercel.app/api?username=ThapsonKNyirenda&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+![Top Langs](https://github-readme-stats-theta-ashy.vercel.app/api/top-langs/?username=ThapsonKNyirenda&layout=compact&count_private=true&langs_count=8&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ThapsonKNyirenda&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThapsonKNyirenda&theme=radical)
 
 
 <!---
