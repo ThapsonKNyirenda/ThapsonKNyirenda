@@ -5,6 +5,7 @@
 - 🌱 Rich out: thapsonknyirenda@gmail.com || +265880218905
 
 ![Top Langs](https://github-readme-stats-theta-ashy.vercel.app/api/top-langs/?username=ThapsonKNyirenda&count_private=true&layout=compact&langs_count=6&theme=radical)
+![GitHub Stats](https://github-readme-stats-theta-ashy.vercel.app/api?username=ThapsonKNyirenda&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
 
 <!---
