@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Thapson K. Nyirenda
 
 - 👀 I’m interested in **Web and Mobile Application Development**
-- 🌱 I’m currently learning **Laravel**, **React**, **Next.js**, and **NestJS**
+- 🌱 I’m currently learning **Python**, **Next.js**, and **Java Springboot**
 - 🤝 I’m open to collaboration on **Flutter**, **JavaScript**, or **Laravel** projects
 - 📫 Reach me at: **thapsonknyirenda@gmail.com** | 📞 **+265 880 218 905**
 
